@@ -1,0 +1,15 @@
+user-card
+pawelion
+my-partner
+moi-sotrudniki
+moi-sdelki
+index
+footer
+sklad
+card-pawelion
+card-all
+burse
+burse-logist
+burse-alternative
+
+готовое меню на странице moi-sdelki // напоминание
